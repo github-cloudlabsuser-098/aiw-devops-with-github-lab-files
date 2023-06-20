@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/aiw-devops/d9495572-a795-4c5c-ad23-c7eca9f1ad25/42dbea25-bf59-46ba-9372-74a24778321f/_apis/work/boardbadge/9af30f92-e412-43f0-b5f2-4fd2d446293f)](https://dev.azure.com/aiw-devops/d9495572-a795-4c5c-ad23-c7eca9f1ad25/_boards/board/t/42dbea25-bf59-46ba-9372-74a24778321f/Microsoft.RequirementCategory)
 # Contoso Traders
 
 ![Logo](./docs/images/logo-1280x640.png)
